@@ -1,0 +1,6 @@
+Stock Portfolio Report
+
+AAPL - Quantity: 10 - Value: 1800
+TSLA - Quantity: 10 - Value: 2500
+
+Total Investment: 4300
